@@ -10,7 +10,7 @@ Projeto da matéria de POO FACENS
 * COMENTE O CÓDIGO INTEIRO DEMONSTRANDO SEUS CONHECIMENTOS SOBRE O MESMO;
 * CRIE UM REPOSITÓRIO REMOTO COM TÍTULO: GERENCIAMENTO_FRUTAS_CLI;
 
-![Print da tela ](assets/printdoconsole.png)
+![Print da tela ](assets/Print.png)
 
 
 ## 🛠️ Construído com
