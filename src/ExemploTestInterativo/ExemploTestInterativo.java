@@ -19,7 +19,7 @@ public class ExemploTestInterativo {
         while (true) { 
             try {
             	
-                // aparece o menu de escolhas para o usuario escolher
+                // aparece o menu de escolhas para o usuario 
                 System.out.println("\nEscolha uma opção: ");
                 System.out.println("1. Adicionar uma fruta");
                 System.out.println("2. Listar todas as frutas");

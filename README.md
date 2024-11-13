@@ -24,4 +24,4 @@ Projeto da matéria de POO FACENS
 
 ## ✒️ Autores
 
-* Nicolas Beloto Armenio - GERENCIAMENTO FRUTAS (COMMAND LINE INTERFACE)
+* Nicolas Beloto Armenio - *GERENCIAMENTO FRUTAS (COMMAND LINE INTERFACE)*
